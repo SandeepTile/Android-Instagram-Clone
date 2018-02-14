@@ -1,42 +1,49 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:1-40:12
-INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:1-40:12
-INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:1-40:12
-INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:1-40:12
+ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\82f92b0c8565192d5b1c45b99f13d5fe\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b2ff5bfe12ef8fd2b94703d7f11fdd6\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\52d9137aebb84df69d26c29440f64a91\AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\cdbd29032406d5546fec1b346cd865dd\AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\90f4c25e6d7015fa5adfc4e25cc66743\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:1-40:12
-INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:1-40:12
-INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:1-40:12
+INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
 	package
-		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:11:5-32
+		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
 		INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:1-40:12
+		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
 		INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:1-40:12
+		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
 		INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:11-69
+		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-67
+ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:22-64
+		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:22-76
+		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
 application
-ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:5-38:19
+ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:5-39:19
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\82f92b0c8565192d5b1c45b99f13d5fe\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\82f92b0c8565192d5b1c45b99f13d5fe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b2ff5bfe12ef8fd2b94703d7f11fdd6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b2ff5bfe12ef8fd2b94703d7f11fdd6\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\52d9137aebb84df69d26c29440f64a91\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\52d9137aebb84df69d26c29440f64a91\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\cdbd29032406d5546fec1b346cd865dd\AndroidManifest.xml:7:5-20
@@ -81,12 +88,18 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:35:17-77
 	android:name
 		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:35:27-74
+activity#com.parse.starter.UserListActivity
+ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:9-63
+	android:name
+		ADDED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:19-51
 uses-sdk
 INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Sandy\Downloads\08.06\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\82f92b0c8565192d5b1c45b99f13d5fe\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\82f92b0c8565192d5b1c45b99f13d5fe\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b2ff5bfe12ef8fd2b94703d7f11fdd6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b2ff5bfe12ef8fd2b94703d7f11fdd6\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\52d9137aebb84df69d26c29440f64a91\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\52d9137aebb84df69d26c29440f64a91\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Sandy\Downloads\Compressed\gradle-3.5-all\gradle-3.5\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\cdbd29032406d5546fec1b346cd865dd\AndroidManifest.xml:5:5-43

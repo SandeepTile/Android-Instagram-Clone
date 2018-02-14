@@ -8,24 +8,24 @@
         "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
-        "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
@@ -56,12 +56,12 @@
         "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -108,12 +108,12 @@
         "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
         "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_full_material.xml.flat",
@@ -620,6 +620,10 @@
         "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_share_menu.xml.flat",
+        "source": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\src\\main\\res\\menu\\share_menu.xml"
+    },
+    {
         "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
@@ -678,6 +682,10 @@
     {
         "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Sandy\\Downloads\\Compressed\\gradle-3.5-all\\gradle-3.5\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\82f92b0c8565192d5b1c45b99f13d5fe\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_list.xml.flat",
+        "source": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_list.xml"
     },
     {
         "merged": "C:\\Users\\Sandy\\Downloads\\08.06\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
